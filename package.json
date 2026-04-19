@@ -1,0 +1,21 @@
+{
+  "name": "interview-practice",
+  "version": "1.0.0",
+  "description": "A structurerd repository of coding exercises and interview practice challenges, organized by language and dificulty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jxs7er/interview-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jxs7er/interview-practice/issues"
+  },
+  "homepage": "https://github.com/Jxs7er/interview-practice#readme"
+}
