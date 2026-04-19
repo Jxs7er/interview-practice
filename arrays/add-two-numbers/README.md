@@ -39,6 +39,4 @@ For each node:
 See `solution.py`
 
 ## Link
-```bash
-https://leetcode.com/problems/add-two-numbers/submissions/1982359651
-```
+[LeetCode](https://leetcode.com/problems/add-two-numbers/submissions/1982359651)

@@ -33,3 +33,7 @@ For each number:
 
 ## Solution
 See `solution.js`
+
+## Link
+[LeetCode .js](https://leetcode.com/problems/two-sum/submissions/1982369140)
+[LeetCode .java](https://leetcode.com/problems/two-sum/submissions/1982368810)
