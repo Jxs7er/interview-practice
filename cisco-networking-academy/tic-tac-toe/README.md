@@ -48,7 +48,7 @@ See `solution.py`
 ![start](assets/tic-tac-toe1.png)
 
 ### Jugada del usuario
-![move](images/tic-tac-toe2.png)
+![move](assets/tic-tac-toe2.png)
 
 ### Final del juego
-![end](images/tic-tac-toe3.png)
+![end](assets/tic-tac-toe3.png)
